@@ -11,6 +11,7 @@ public class jdk {
     }
 
     private static void testArray1() {
+        //adfasdfasdf
         String[] arr1 = {"1","2","3"};
         int[] arr2 = {1,2,3};
         Integer[] arr3 = {1,2,3};
